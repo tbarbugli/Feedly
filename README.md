@@ -253,3 +253,7 @@ class MyNotificationFeedly(Feedly):
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tbarbugli/feedly/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
